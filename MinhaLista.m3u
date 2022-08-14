@@ -53,8 +53,8 @@ http://stream.tudogrates.ml:8880/live/natgeowild/chunks.m3u8?token=1660573449_2f
 https://origin.esporteone.com/TELECINEFUNHD/tracks-v1a1/mono.m3u8?md5=unmh7eAgw7A1CGlVv4wxgw&expires=1660517094
 
 ################################# ESPORTES #############################################
-#EXTINF:-1 tvg-name="COMBATE",COMBATE HD
-https://origin.esporteone.com/COMBATEHD/tracks-v1a1/mono.m3u8?md5=uVQklgsm5q1lPD5o9DBE6g
+#EXTINF:-1 tvg-name="COMBATE" group-title="Esportes",COMBATE HD
+https://xcurso.xyz/combate/tracks-v1a1/mono.m3u8?token=b8660268f03ab8721fe23148ffea7bac9d4c409b-ed683e9bb52df5d15c2923690511a218-1660522699-1660515499
 
 ################################# MUSICA #########################################
 
