@@ -5,7 +5,7 @@
 
 #EXTINF:-1 tvg-name="A&E" group-title="Filmes e Séries",A&E HD
 https://xcurso.xyz/ae/tracks-v1a1/mono.m3u8?token=34c89733349ca1da68ae5b2737ae78632d4b3696-2f45a74208ff354892cd6b16ca4f5cbf-1660519067-1660511867
-#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="http://dns.jslinkdns.xyz:80/images/c4fc4634e6e6ee29f11f364ec8e0e25d.png",Animal Planet HD
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",Animal Planet HD
 https://aipaipara.xyz/animal-planet/tracks-v1a1l1/mono.m3u8?token=da6bbe142c081a0380455341d693e3c6e5fbb5ce-cc3c722f4d73f076eec367c5bdcdce61-1660518944-1660511744
 #EXTINF:-1 tvg-name="FX HD" tv-logo="https://skytvplanos.com.br/img/channels/lg-247-canal-fx-hd.png",FX HD 
 http://stream.tudogrates.ml:8880/live/fx/chunks.m3u8?token=1660574107_74596664799e3bb738b8be8aa147a08633dc59d7
