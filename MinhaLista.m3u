@@ -1,6 +1,67 @@
 #EXTM3U
 
+
+########### CANAIS|FILMES E SÉRIES ##########
+
+#EXTINF:-1 tvg-name="A&E" group-title="Filmes e Séries",A&E HD
+https://xcurso.xyz/ae/tracks-v1a1/mono.m3u8?token=34c89733349ca1da68ae5b2737ae78632d4b3696-2f45a74208ff354892cd6b16ca4f5cbf-1660519067-1660511867
+#EXTINF:-1 tvg-name="ANIMAL PLANET HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png",Animal Planet HD
+https://aipaipara.xyz/animal-planet/tracks-v1a1l1/mono.m3u8?token=da6bbe142c081a0380455341d693e3c6e5fbb5ce-cc3c722f4d73f076eec367c5bdcdce61-1660518944-1660511744
+#EXTINF:-1 tvg-name="FX HD" tv-logo="https://skytvplanos.com.br/img/channels/lg-247-canal-fx-hd.png",FX HD 
+http://stream.tudogrates.ml:8880/live/fx/chunks.m3u8?token=1660574107_74596664799e3bb738b8be8aa147a08633dc59d7
 #EXTINF:-1 tvg-name="HBO Plus",HBO Plus 
-https://m3u9.ml/a2/hls1/hboplus.m3u8?mu3zAQc9HC3GbwJq=Qc81GVzIbMYGSufXtICUdQ&3U1G7qaTxrPbalZnEx=1660495325
+https://aipaipara.xyz/hbo-plus/tracks-v1a1l1/mono.m3u8?token=68ed88b1a4be944df8d05d7c01b20040ad61d6ba-8830a0ee75bb5b3e716b4957bcd5cd03-1660488620-1660481420
 #EXTINF:-1 tvg-name="HBO Mundi",HBO Mundi
-https://m3u9.ml/a2/hls1/hbomundi.m3u8?mu3zAQc9HC3GbwJq=k8gSV5-KE9FvCoSPLly43A&3U1G7qaTxrPbalZnEx=1660496704
+https://aipaipara.xyz/hbo-mundi/tracks-v1a1l1/mono.m3u8?token=8a7abddbdcded76f742cd982570f35274eceb3a6-27ec941a5b536d6bebe32416f4f6002e-1660488731-1660481531
+#EXTINF:-1 tvg-name="AXN",AXN
+https://aipaipara.xyz/axn/tracks-v1a1/mono.m3u8?token=9a55b983bd6cc87bf0699ef4bf469f03c859ea23-c61e99fc2be8ec1473eacc69c2ba4d90-1660517865-1660510665
+#EXTINF:-1 tvg-name="MEGAPIX",Megapix
+https://aipaipara.xyz/megapix/tracks-v1a1/mono.m3u8?token=849ac3f0a4c89299cd7c243bb725c0b745038bed-ff78a3cbe2cbf7f3a8237da82f70b8b5-1660480851-1660473651
+#EXTINF:-1 tvg-name="MEGAPIX",Megapix²
+https://minhateca.ru/cdn/p/2/live/14.m3u8?t=1660508055&h=EdxgU-gqRwwKUwJuNQ_GWQ
+#EXTINF:-1 tvg-name="HBO",HBO
+http://stream.tudogrates.ml:8880/live/hbo/chunks.m3u8?token=1660574160_ea3713ae02d922af03e097f55ef17f8873ed10e5
+#EXTINF:-1 tvg-name="HBO POP", HBO POP
+https://aipaipara.xyz/hbo-pop/tracks-v1a1l1/mono.m3u8?token=b3a5e4505839b5ef68a4387fef7a14d0303235b8-3eb71f7ca1dec8cc40a42402e3d14d47-1660481401-1660474201
+#EXTINF:-1 tvg-name="HBO Extreme",HBO Extreme
+https://aipaipara.xyz/hbo-xtreme/tracks-v1a1l1/mono.m3u8?token=59c16dce67df87793f0b9e68e8af7ce18243cb47-35214811a59e4494383ebd600eda9125-1660481468-1660474268
+#EXTINF:-1 tvg-name="History",History
+https://aipaipara.xyz/history/tracks-v1a1/mono.m3u8?token=5084af3d5e8e393ea18de8fb7f67f607690dd41a-9744e4130b9c8fd5244d7d4be5d6f7ab-1660482390-1660475190
+#EXTINF:-1 tvg-name="History2",History2
+https://aipaipara.xyz/h2/tracks-v1a1/mono.m3u8?token=edc93333817723c4a3d8285dda329f51955a19f9-99f95976b0492718c6b44bcdb200b24c-1660482478-1660475278
+#EXTINF:-1 tvg-name="Discovery Channel",Discovery Channel
+https://aipaipara.xyz/discovery-channel/tracks-v1a1/mono.m3u8?token=5079fecf02d70525cbd2341f7016a2d35b9e407a-c81a196715740c6d1f299f6d135a63db-1660483095-1660475895
+#EXTINF:-1 tvg-name="Discovery Home&Health",Discovery Home&Health
+http://stream.tudogrates.ml:8880/live/homehealth/chunks.m3u8?token=1660574160_50a351ec84577d363399f9acf4a84bb9e3fef75f
+#EXTINF:-1 tvg-name="Discovery World",Discovery World
+https://aipaipara.xyz/discovery-world/tracks-v1a1/mono.m3u8?token=12a27619ae2e1f674055ccbef83c198f03773e19-048a62c82208399436b5f58b9e34ac9b-1660482584-1660475384
+#EXTINF:-1 tvg-name="Discovery Theater",Discovery Theater
+https://aipaipara.xyz/discovery-theater/tracks-v1a1l1/mono.m3u8?token=afa4c2657b7c83113e9aae68e4e3b781f63862f9-2178c4c8fa95448c9acf0b5a27d4fe28-1660482663-1660475463
+#EXTINF:-1 tvg-name="Discovery Science",Discovery Science
+https://aipaipara.xyz/discovery-science/tracks-v1a1l1/mono.m3u8?token=95cb4156ad1277cedbfa6c07602220f51ecabf64-6d5c39cca61ca09d6ce135d787fb5dd6-1660482720-1660475520
+#EXTINF:-1 tvg-name="Discovery Turbo",Discovery Turbo
+https://aipaipara.xyz/discovery-turbo/tracks-v1a1l1/mono.m3u8?token=484d7422fdbaac97f753cecb401a6972750eae7d-fb2a678608412d9e716c62d4d62b0d6a-1660482822-1660475622
+#EXTINF:-1 tvg-name="Discovery ID",Discovery ID
+https://aipaipara.xyz/discovery-id/tracks-v1a1l1/mono.m3u8?token=fff6f1582b81b207f12a9f878720827c23cb1a0d-78232685b78e1077ed366b63f86604fd-1660518198-1660510998
+#EXTINF:-1 tvg-name="TLC",TLC
+https://aipaipara.xyz/tlc/tracks-v1a1/mono.m3u8?token=7ff28e32938d5b6f79776a43e4c789441453f7e6-16975c8c729f5e096c8c4df3ca71a72c-1660483170-1660475970
+#EXTINF:-1 tvg-name="NatGeo",National Geographic
+http://stream.tudogrates.ml:8880/live/natgeowild/chunks.m3u8?token=1660573449_2fffa961944dafb7e609d4648b29deeaf9fe1055
+################################### CANAIS TELECINE ####################################
+
+#EXTINF:-1 tvg-name="TELECINE FUN",TELECINE FUN HD
+https://origin.esporteone.com/TELECINEFUNHD/tracks-v1a1/mono.m3u8?md5=unmh7eAgw7A1CGlVv4wxgw&expires=1660517094
+
+################################# ESPORTES #############################################
+#EXTINF:-1 tvg-name="COMBATE",COMBATE HD
+https://origin.esporteone.com/COMBATEHD/tracks-v1a1/mono.m3u8?md5=uVQklgsm5q1lPD5o9DBE6g&expires=1660517631
+
+################################# MUSICA #########################################
+
+#EXTINF:-1 tvg-name="BIS",BIS HD
+https://aipaipara.xyz/bis/tracks-v1a1/mono.m3u8?token=2d54ac4251e7705aa3e781d6ce4d0eb0a1b6c4d3-6218d9473a78e3149892c56405f8966f-1660518128-1660510928
+
+####################################### DESENHOS ####################################
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK",CARTOON NETWORK HD
+https://m3u9.ml/a2/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=N-ymAD7TAsqV8yJ1vEwx6w&3U1G7qaTxrPbalZnEx=1660540630
