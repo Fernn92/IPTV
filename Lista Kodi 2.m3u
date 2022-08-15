@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF:-1,WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?streamtype=TS.DOWNLOADER;name=RamalhoIPTV;&buffer=1.1.1.1;url=http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/19291|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/19291|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1,NATGEO KIDS 4K
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=1.1.1.1;url=http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/19290|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1,BABY TV HD
