@@ -136,9 +136,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=1.
 #EXTINF:-1,[24H] Ursinhos Carinhosos 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=1.1.1.1;url=http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/19015
 #EXTINF:-1,ANIMAL PLANET 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=1.1.1.1;url=http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/18055
+http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/18055
 #EXTINF:-1,ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=1.1.1.1;url=http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/12
+http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/12
 #EXTINF:-1,CTC LOVE HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV;&buffer=1.1.1.1;url=http://mn.hostinggonow.com:2095/NEW_LIVE5463017592/4308766478/132
 #EXTINF:-1,DISCOVERY CHANNEL 4K
