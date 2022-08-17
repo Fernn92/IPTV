@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,
-http://89.187.176.149/live/rafa1234/rafa1234/175.m3u8?token=b0xLRmlsOHByVHpSYkl6
 #EXTINF:-1,FX HD
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Multishow HD
