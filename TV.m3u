@@ -1,35 +1,35 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="CANAIS | FILMES & SERIES",A&E FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415546?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/aeefhd/s.m3u8
 #EXTINF:-1 tvg-logo:"https://logosmarcas.net/wp-content/uploads/2022/01/AMC-Logo.png" group-title="CANAIS | FILMES & SERIES",AMC FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415549?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/amcfhd/s.m3u8
 #EXTINF:-1 group-title="CANAIS | FILMES & SERIES",AXN FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415552?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/axnfhd/s.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/240px-Sony_Channel_latam_logo.svg.png" group-title="CANAIS | FILMES & SERIES",SONY FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415555?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/canalsonyfhd/s.m3u8
 #EXTINF:-1 tvg-logo="https://vcfaz.tv/img/logo/cinemax.jpg" group-title="CANAIS | FILMES & SERIES",CINEMAX FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415558?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/cinesky09/s.m3u8
 #EXTINF:-1 tvg-logo="https://pt.wikipedia.org/wiki/Film%26Arts#/media/Ficheiro:FILMANDARTS.png" group-title="CANAIS | FILMES & SERIES",FILM AND ARTS
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415561?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/filmeartsfhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="CANAIS | FILMES & SERIES",FX FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415564?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/fxfhd/s.m3u8
 #EXTINF:-1 tvg-logo="https://vcfaz.tv/img/logo/lifetime.jpg" group-title="CANAIS | FILMES & SERIES",LIFETIME FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415567?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/lifetimefhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Megapix_logo_2011.png/320px-Megapix_logo_2011.png" group-title="CANAIS | FILMES & SERIES",MEGAPIX FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415570?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 tvg-logo:"https://vcfaz.tv/img/logo/paramount.jpg" group-title="CANAIS | FILMES & SERIES",PARAMOUNT CHANNEL FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415573?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/paramountchannelfhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180812/gt/kisspng-space-logo-television-channel-esporte-interativo-space-boost-cafe-5b70e60fdb8835.2475459715341255838992.jpg" group-title="CANAIS | FILMES & SERIES",SPACE FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415582?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/spacefhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/320px-Star_Channel_2021.png" group-title="CANAIS | FILMES & SERIES",STAR CHANNEL FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415576?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/starchannelfhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/320px-Star_Life_2021.svg.png" group-title="CANAIS | FILMES & SERIES",STAR LIFE FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415579?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/320px-Logo_Studio_Universal.svg.png" group-title="CANAIS | FILMES & SERIES",STUDIO UNIVERSAL
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415585?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/studiouniversalfhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="CANAIS | FILMES & SERIES",SYFY FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415588?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/syfyfhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/320px-TBS_logo_2016.svg.png" group-title="CANAIS | FILMES & SERIES",TBS FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415591?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS | FILMES & SERIES",TCM FHD
@@ -49,7 +49,7 @@ http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415672?md5=null&expires=null&u=116004
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/320px-Logo_of_Bis.svg.png" group-title="CANAIS | VARIEDADES",BIS FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415643?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 tvg-logo="https://img2.gratispng.com/20180831/lho/kisspng-comedy-central-logo-tv-viacom-media-networks-telev-samgrew-5b88d54d01ba87.4999900615356941570071.jpg" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415650?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/comedycentralfhdh265/s.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/320px-Logo_of_Curta%21.svg.png" group-title="CANAIS | VARIEDADES",CURTA FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415646?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 tvg-logo="https://vcfaz.tv/img/logo/e.jpg" group-title="CANAIS | VARIEDADES",E! FHD
@@ -73,35 +73,35 @@ http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415678?md5=null&expires=null&u=116004
 #EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/original/canalviva2_59de2e17c2cd9a1f7a709d0fdafeea4b2eddb7e1.jpeg" group-title="CANAIS | VARIEDADES",VIVA FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415675?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415371?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/animalplanetfhdh265/s.m3u8
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415374?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/discoverychannelfhdh265/s.m3u8
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY HOME&HEALTH FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415415?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415377?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://dsvr.in:80/live/antoniooddone20/f10203045/29893.ts
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY THEATER FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415380?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://dsvr.in:80/live/antoniooddone20/f10203045/29892.ts
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415383?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/discoveryturbofhdh265/s.m3u8
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY WORLD FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415386?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/discoveryworldfhdh265/s.m3u8
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",HISTORY FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415393?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://dsvr.in:80/live/antoniooddone20/f10203045/24998.ts
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415396?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/h2fhdh265/s.m3u8
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",HGTV FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415390?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/hgtvfhdh265/s.m3u8
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415409?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/idfhdh265/s.m3u8
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",LOVE NATURE FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415399?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
-#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
-http://172.106.200.50:80/xuRpbskpgec7/M6Y3yqvRw4s9/415404?md5=null&expires=null&u=1160041&p=5206787&dd=1160041&token=TxpZABdZQQwaUVJSUgZUUFBQUVIAWQFWCgMMAA0EWgQCDVVRVFcAVV5BSBUSQRZUVQ5oCwIaCQcDVwAJAB1AF0ddQz4NVUEMGlVcBVYMXRMYQUMLC10RCQNUAggCAlpbDQ8dQxRYBxQCQVUCVA1UExhBUhoSXUFdUw5rXVFHCwFRGgsPEV0PGhoMCmgFUAlQWgcVWEQIER8QC0dJFgsMF1hUHUMGWBdEWRcBFVsXVgQEURVORFtcRlwWRkAWC0AgZhodQwFJF1NWEA1YDxdeE0AQFU5EUUBsQAdHTUZUAw9RShNbRgBBGhoOBU8+VgtfWgZUFg9XXUAQWBYLBAFAThZVXg8NRQxEZxMNU0MPRgIBWgdAGw==
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415403?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://dsvr.in:80/live/antoniooddone20/f10203045/25017.ts
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",SMITHSONIAN CHANNEL FHD
-http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415406?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
+http://hls1.sua.tv/live/smithsonianfhdh265/s.m3u8
+#EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",TruTV FHD
+http://dsvr.in:80/live/antoniooddone20/f10203045/134624.ts
 #EXTINF:-1 group-title="CANAIS | DOCUMENTÁRIOS",TLC FHD
 http://suatv.fun/xuRpbskpgec7/M6Y3yqvRw4s9/415412?md5=null&expires=null&u=1160041&p=5206787&dd=1160041
 #EXTINF:-1 group-title="CANAIS | DESENHOS",CARTOONITO FHD
